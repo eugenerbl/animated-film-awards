@@ -1,6 +1,6 @@
 # Animated Film Awards
 A database of five major awards for animated films, including nominees, winners, and film studios.
-Data range: nominated films from 1991-2021
+Data covers nominated films from 1991-2022
 
 ## Database Contents
 * master_list.csv - A complete list of all films that have been nominated for at least one of the awards mentioned below.
